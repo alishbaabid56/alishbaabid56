@@ -1,118 +1,244 @@
+<div align="center">
+
 # 👋 Hi, I'm Alishba Abid
 
-### 💻 Full Stack Developer | 🤖 AI Developer
+### 💻 Full Stack Developer • 🤖 AI Developer
 
-I’m a **Full Stack Developer and AI Developer** passionate about building modern, responsive web applications and AI-powered solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C5CFF&center=true&vCenter=true&width=700&lines=Building+Modern+Full+Stack+Applications;Exploring+Agentic+AI+%26+AI+Engineering;Next.js+%7C+TypeScript+%7C+Python;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
 
-I enjoy turning ideas into practical products — from frontend interfaces and backend APIs to databases, authentication, deployment, and AI integrations.
+<br/>
+
+<a href="https://github.com/alishbaabid56">
+  <img src="https://img.shields.io/github/followers/alishbaabid56?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/alishbaabid56?tab=repositories">
+  <img src="https://img.shields.io/github/stars/alishbaabid56?label=Stars&style=for-the-badge&logo=github" alt="GitHub stars"/>
+</a>
+
+</div>
 
 ---
 
-## 🚀 What I Build
+## 🧑‍💻 About Me
 
-* 🌐 Full Stack Web Applications
+I'm a **Full Stack Developer and AI Developer** focused on building modern, scalable and user-friendly applications.
+
+I enjoy working across the complete development process — from designing interfaces and building APIs to databases, authentication, AI integration and deployment.
+
+```text
+💻 Full Stack Development
+🤖 AI & Agentic AI
+⚡ Next.js & TypeScript
+🐍 Python & FastAPI
+🗄️ Database-driven Applications
+🔐 Authentication & Secure Systems
+☁️ Deployment & Production Workflows
+```
+
+---
+
+## 🚀 What I'm Building
+
+* 🌐 Modern full-stack web applications
 * 🤖 AI-powered applications and intelligent assistants
-* ⚡ Modern applications with Next.js & TypeScript
-* 🐍 Backend systems and APIs with Python
-* 🔐 Authentication, authorization & secure applications
-* 🗄️ Database-driven applications
-* ☁️ Deployed and production-ready projects
+* 🧠 Agentic AI workflows and AI integrations
+* ⚡ Responsive applications with Next.js
+* 🔐 Secure authentication and role-based systems
+* 🗄️ Database-backed applications and APIs
+* ☁️ Production-ready deployments
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 💻 Frontend
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css" />
+</p>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,sqlite" />
+</p>
 
-### AI & Development
+### 🤖 AI & Developer Tools
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge\&logo=google\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,github,git,vscode" />
+</p>
+
+**AI & Development:** OpenAI Agents SDK · Gemini · MCP · Agentic AI · Claude Code · Gemini CLI
 
 ---
 
-## 🌟 Featured Projects
+# 🌟 Featured Projects
 
-### 💼 CareerHub
+### 💼 CareerHub — Jobs & Internship Management Platform
 
-**Jobs & Internship Management Platform**
+A full-stack platform designed for managing jobs, internships, candidates, employers and applications.
 
-A full-stack platform featuring authentication, role-based access, job management, applications, validation, database integration, and deployment.
+**Highlights**
 
-**Tech:** Next.js · TypeScript · Drizzle ORM · PostgreSQL · Better Auth · Tailwind CSS
+* 🔐 Authentication & role-based access
+* 👤 Candidate and employer workflows
+* 💼 Job management
+* 📄 Application management
+* ✅ Validation & error handling
+* 🗄️ PostgreSQL database
+* ☁️ Production deployment
+
+**Stack:** Next.js · TypeScript · Drizzle ORM · PostgreSQL · Better Auth · Tailwind CSS
 
 ---
 
 ### 🏭 HMC Refractory Solution
 
-A professional B2B website developed for an industrial refractory and insulation business, including product/service sections, responsive design, contact functionality, SEO and deployment.
+A professional B2B website developed for an industrial refractory and insulation business.
 
-**Tech:** Next.js · TypeScript · Tailwind CSS · Nodemailer · Vercel
+**Highlights**
+
+* 📱 Responsive design
+* 🏗️ Product & service presentation
+* 📩 Contact form
+* 🔎 SEO setup
+* 📞 Business contact integration
+* ☁️ Vercel deployment
+
+**Stack:** Next.js · TypeScript · Tailwind CSS · Nodemailer · Vercel
 
 ---
 
-### 🤖 AI Todo / Task Management Platform
+### 🤖 AI Task Management Platform
 
-A full-stack task management application extended with AI capabilities, API integration and chatbot functionality.
+A full-stack task management system extended with AI-powered functionality and chatbot capabilities.
 
-**Tech:** Next.js · FastAPI · PostgreSQL · Better Auth · AI SDKs
+**Highlights**
+
+* ⚡ Modern task management
+* 🤖 AI chatbot
+* 🔌 API integration
+* 🔐 Authentication
+* 🗄️ Database integration
+
+**Stack:** Next.js · FastAPI · PostgreSQL · Better Auth · AI SDKs
 
 ---
 
 ### 📝 DevJournal
 
-A modern full-stack blogging platform with CRUD functionality, local database integration and responsive UI.
+A modern blogging platform with database-backed CRUD functionality and responsive design.
 
-**Tech:** Next.js · TypeScript · SQLite · Tailwind CSS
+**Highlights**
+
+* ✍️ Create & manage posts
+* 📝 Edit posts
+* 🗑️ Delete posts
+* 🗄️ SQLite database
+* 📱 Responsive interface
+
+**Stack:** Next.js · TypeScript · SQLite · Tailwind CSS
 
 ---
 
 ## 🧠 Currently Exploring
 
-* 🤖 Agentic AI Development
-* 🧩 AI Agents & MCP
-* ⚡ Next.js & TypeScript
-* 🐍 Python & FastAPI
-* 🔐 Authentication & secure application architecture
-* ☁️ Deployment & production workflows
+```text
+┌──────────────────────────────────────────────┐
+│ 🤖 Agentic AI & AI Engineering               │
+│ 🧩 AI Agents & MCP                           │
+│ ⚡ Advanced Next.js & TypeScript             │
+│ 🐍 Python & FastAPI                          │
+│ 🔐 Secure Application Architecture           │
+│ ☁️ Deployment & Production Engineering       │
+└──────────────────────────────────────────────┘
+```
 
 ---
 
-## 📈 My Development Philosophy
+# 📊 GitHub Activity
 
-> **Build. Learn. Improve. Repeat.**
+<div align="center">
 
-I believe the best way to learn development is by building real projects, solving real problems, and continuously improving what I've already created.
+<img src="https://github-readme-stats.vercel.app/api?username=alishbaabid56&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Alishba's GitHub stats" />
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alishbaabid56&hide_border=true&theme=transparent" alt="GitHub Streak" />
 
-## 🌐 Connect With Me
-
-**Portfolio:**
-https://personal-portfolio-kappa-orpin.vercel.app/
-
-**GitHub:**
-https://github.com/alishbaabid56
-
-**LinkedIn:**
-[[Add your LinkedIn profile here](https://www.linkedin.com/in/alishba-abid-67606b2b8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BmiAluSQzSMGdq5swM6xOzw%3D%3D)]
+</div>
 
 ---
 
-### 💙 Thanks for visiting my profile!
+## 💻 Most Used Languages
 
-⭐ Feel free to explore my repositories and follow my journey as I continue building with **Full Stack Development & AI**.
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishbaabid56&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=alishbaabid56&theme=flat&no-frame=true&no-bg=true&margin-w=10" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## 📈 My Developer Journey
+
+```text
+Learn
+  ↓
+Build
+  ↓
+Break Things
+  ↓
+Debug
+  ↓
+Improve
+  ↓
+Deploy
+  ↓
+Repeat 🔁
+```
+
+> **I believe real growth comes from building real projects, solving real problems, and continuously improving.**
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/alishbaabid56">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://personal-portfolio-kappa-orpin.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-7C5CFF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<!-- Add your LinkedIn URL here -->
+
+<a href="https://www.linkedin.com/in/alishba-abid-67606b2b8/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+**Building with code. Exploring with AI. Growing every day. 🚀**
+
+<img src="https://komarev.com/ghpvc/?username=alishbaabid56&style=for-the-badge&color=7C5CFF" alt="Profile views" />
+
+</div>
